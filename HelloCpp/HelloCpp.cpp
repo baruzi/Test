@@ -9,6 +9,7 @@ int main()
 {
 	cout << "Hello!";
 	cout << "hello!";
+	cout << "ggg";
     return 0;
 }
 
