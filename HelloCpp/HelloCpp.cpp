@@ -7,9 +7,10 @@
 using namespace std;
 int main()
 {
-	cout << "Hello!";
-	cout << "hello!";
-	cout << "ggg";
+	cout << "Hello 1";
+	cout << "hello 2";
+	cout << "hello 3";
+	cout << "hello 4";
     return 0;
 }
 
