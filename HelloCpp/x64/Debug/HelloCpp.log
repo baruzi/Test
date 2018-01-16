@@ -1,3 +1,0 @@
-﻿  HelloCpp.cpp
-d:\gitprojects\test\hellocpp\hellocpp.cpp(15): error C2065: 'gsadg': 선언되지 않은 식별자입니다.
-d:\gitprojects\test\hellocpp\hellocpp.cpp(15): error C2143: 구문 오류: ';'이(가) 'return' 앞에 없습니다.
