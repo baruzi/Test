@@ -17,3 +17,15 @@ HelloCpp/Debug/vc140.idb
 HelloCpp/HelloCpp.vcxproj.filters
 HelloCpp/HelloCpp.vcxproj.user
 HelloCpp/ReadMe.txt
+*.pdb
+*.pdb
+HelloCpp/x64/Debug/vc140.pdb
+HelloCpp/x64/Debug/vc140.idb
+HelloCpp/x64/Debug/HelloCpp.tlog/unsuccessfulbuild
+HelloCpp/x64/Debug/HelloCpp.tlog/CL.write.1.tlog
+HelloCpp/x64/Debug/HelloCpp.obj
+HelloCpp/x64/Debug/HelloCpp.log
+HelloCpp/x64/Debug/HelloCpp.obj
+HelloCpp/x64/Debug/HelloCpp.tlog/CL.write.1.tlog
+HelloCpp/x64/Debug/vc140.idb
+HelloCpp/x64/Debug/vc140.pdb

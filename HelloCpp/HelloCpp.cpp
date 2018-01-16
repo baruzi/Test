@@ -10,6 +10,8 @@ int main()
 	cout << "Hello!";
 	cout << "hello!";
 	cout << "ggg";
+	gsadg
+
     return 0;
 }
 
